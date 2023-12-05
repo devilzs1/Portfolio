@@ -59,8 +59,8 @@ const Data = () => {
         Engineer
       </h3>
       <p className="home_description">
-        I'm a software developer, database engineer, network engineer and
-        cybersecurity analyst based in India. I'm very passionate and dedicated
+         Software developer, database engineer, network engineer and
+        cybersecurity analyst based in India. Very passionate and dedicated
         to my work.
       </p>
 
