@@ -30,7 +30,7 @@ const Footer = () => {
         </ul>
         <div className="footer_social">
           <a
-            href="https://linkedin.com/in/mohammad-adil-01791922"
+            href="https://www.linkedin.com/in/mohammad-adil-017919229"
             className="footer_social-link"
             target="_blank"
           >
@@ -48,7 +48,9 @@ const Footer = () => {
           </a>
         </div>
 
-        <span className="footer_copy">&#169; codeForMe. All right reserved. Made in India </span>
+        <span className="footer_copy">
+          &#169; codeForMe. All right reserved. Made in India{" "}
+        </span>
       </div>
     </footer>
   );

@@ -32,7 +32,7 @@ const Contact = () => {
               <h3 className="contact_card-title">LinkedIN</h3>
               <span className="contact_card-data">Mohammad Adil</span>
               <a
-                href="https://www.linkedin.com/in/mohammad-adil-01791922/"
+                href="https://www.linkedin.com/in/mohammad-adil-017919229/"
                 className="contact_button"
                 target='_blank'
               >
