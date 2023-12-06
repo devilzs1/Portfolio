@@ -18,8 +18,9 @@ const Contact = () => {
                 mohammadadil3292@gmail.com
               </span>
               <a
-                href="maito:mohammadadil3292@gmail.com"
+                href="mailto:mohammadadil3292@gmail.com"
                 className="contact_button"
+                target='_blank'
               >
                 Write me
                 <i className="bx bx-right-arrow-alt contact_buton-icon"></i>
@@ -31,8 +32,9 @@ const Contact = () => {
               <h3 className="contact_card-title">LinkedIN</h3>
               <span className="contact_card-data">Mohammad Adil</span>
               <a
-                href="https://linkedin.com/in/mohammad-adil-01791922"
+                href="https://www.linkedin.com/in/mohammad-adil-01791922/"
                 className="contact_button"
+                target='_blank'
               >
                 Write me
                 <i className="bx bx-right-arrow-alt contact_buton-icon"></i>
