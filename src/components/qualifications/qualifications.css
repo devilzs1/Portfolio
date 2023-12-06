@@ -8,7 +8,7 @@
 }
 .qualification_button{
     font-size: var(--h3-font-size);
-    font-weight: var(--font-medium);
+    font-weight: var(--font-small);
     color: var(--title-color);
     margin: 0 var(--mb-1);
     cursor: pointer;
@@ -23,6 +23,7 @@
 }
 .qualification_active{
     color: var(--title-color-dark);
+    font-size: var(--font-medium);
 }
 .qualification_sections{
     display: grid;
