@@ -4,7 +4,7 @@ import Certificates from "./Certificates";
 
 const Certificate = () => {
   return (
-    <section className="certificate section" id="portfolio">
+    <section className="certificate section" id="certificate">
       <h2 className="section_title">Certificates & Achievements</h2>
       <span className="section_subtitle">Learnings</span>
       <Certificates />
