@@ -59,7 +59,7 @@ const Data = () => {
       <p className="home_description">
         Hello, I'm Mohammad Adil, a versatile professional based in India,
         specializing in software development, database engineering, network
-        administration, and cybersecurity analyst. My passion and dedication
+        administration, and cybersecurity. My passion and dedication
         drive my commitment to delivering innovative and secure solutions in the
         ever-evolving tech landscape.
       </p>

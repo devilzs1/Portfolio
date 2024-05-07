@@ -13,8 +13,9 @@ export const projectsData = [
     image: Work8,
     title: "Baatein chat app",
     category: "web",
-    // link: "https://baatein-app.vercel.app/",
-    link: "#",
+    link: "https://baatein-app.vercel.app/",
+    // link: "#",
+    code: "https://github.com/devilzs1/Baatein_app",
   },
   {
     id: 1,
@@ -22,6 +23,7 @@ export const projectsData = [
     title: "Cooking made easy",
     category: "web",
     link: "https://cooking-made-easy.vercel.app/",
+    code: "https://github.com/devilzs1/CookingMadeEasy",
   },
   {
     id: 2,
@@ -29,6 +31,7 @@ export const projectsData = [
     title: "DreamHome",
     category: "web",
     link: "https://dream--home.vercel.app/",
+    code: "https://github.com/devilzs1/DreamHome",
   },
   {
     id: 3,
@@ -36,6 +39,7 @@ export const projectsData = [
     title: "NextGen-Compiler",
     category: "web",
     link: "https://next-gen-compiler.vercel.app/",
+    code: "https://github.com/devilzs1/NextGen-Compiler",
   },
   {
     id: 4,
@@ -43,6 +47,7 @@ export const projectsData = [
     title: "Monstat",
     category: "web",
     link: "https://devilzs1.github.io/Monstat-Admin-Panel/",
+    code: "https://github.com/devilzs1/Monstat-Admin-Panel",
   },
   {
     id: 5,
@@ -50,6 +55,7 @@ export const projectsData = [
     title: "Web design",
     category: "web",
     link: "#",
+    code: "",
   },
   {
     id: 6,
@@ -57,6 +63,7 @@ export const projectsData = [
     title: "Web design",
     category: "design",
     link: "#",
+    code: "",
   },
   {
     id: 7,
@@ -64,6 +71,7 @@ export const projectsData = [
     title: "App design",
     category: "design",
     link: "#",
+    code: "",
   },
   {
     id: 8,
@@ -71,6 +79,7 @@ export const projectsData = [
     title: "App design",
     category: "app",
     link: "#",
+    code: "",
   },
   {
     id: 9,
@@ -78,13 +87,15 @@ export const projectsData = [
     title: "Flutter App design",
     category: "design",
     link: "#",
+    code: "",
   },
   {
     id: 10,
     image: Work9,
-    title: "Flutter App design",
+    title: "Central Mess Application",
     category: "app",
     link: "#",
+    code: "https://github.com/devilzs1/Fusion-mobile",
   },
 ];
 

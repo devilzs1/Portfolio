@@ -9,6 +9,7 @@ import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/footer/ScrollUp';
 import Work from './components/work/Work';
+import Certificate from './components/certificate/Certificate';
 
 const App = () => {
   return (
@@ -19,9 +20,9 @@ const App = () => {
         <Home/>
         <About/>
         <Skills/>
-        <Qualifications
-        />
+        <Qualifications/>
         <Work/>
+        <Certificate/>
         <Contact/>
       </main>
       <Footer/>
