@@ -57,11 +57,11 @@ const Data = () => {
       </h1>
       <h3 className="home_subtitle">Engineer</h3>
       <p className="home_description">
-        Hello, I'm Mohammad Adil, a versatile professional based in India,
-        specializing in software development, database engineering, network
-        administration, and cybersecurity. My passion and dedication
-        drive my commitment to delivering innovative and secure solutions in the
-        ever-evolving tech landscape.
+        Hello, I'm Mohammad Adil, a versatile tech professional from India,
+        mastering the realms of software design and development, testing, database
+        engineering, network administration, and cybersecurity. Fueled by
+        passion and dedication, I strive to deliver cutting-edge, secure
+        solutions in today's rapidly evolving technology landscape.
       </p>
 
       <a href="#contact" className="button button--flex">

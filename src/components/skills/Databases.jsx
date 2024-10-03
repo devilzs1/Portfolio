@@ -1,52 +1,43 @@
 import React from "react";
 
-const Frontend = () => {
+const DatabaseOS = () => {
   return (
     <div className="skills_content">
-      <h3 className="skills_title">Frontend Development</h3>
+      <h3 className="skills_title">Database/Operating System</h3>
 
       <div className="skills_box">
         <div className="skills_group">
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">HTML</h3>
+              <h3 className="skills_name">MySQL</h3>
             </div>
           </div>
 
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">CSS</h3>
+              <h3 className="skills_name">MongoDB</h3>
             </div>
           </div>
 
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">JavaScript</h3>
+              <h3 className="skills_name">Redis</h3>
             </div>
           </div>
 
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">React.js</h3>
-            </div>
-          </div>
-
-          <div className="skills_data">
-            <i className="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills_name">Next.js</h3>
+              <h3 className="skills_name">PostgreSQL</h3>
             </div>
           </div>
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">
-                Chrome/React/Redux Developer tools
-              </h3>
+              <h3 className="skills_name">Couchbase</h3>
             </div>
           </div>
         </div>
@@ -55,40 +46,32 @@ const Frontend = () => {
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">Redux/Redux toolkit</h3>
+              <h3 className="skills_name">Snowflake</h3>
             </div>
           </div>
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">Svelte</h3>
-            </div>
-          </div>
-
-          <div className="skills_data">
-            <i className="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills_name">Flutter</h3>
+              <h3 className="skills_name">Neo4j</h3>
             </div>
           </div>
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">Bootstrap</h3>
+              <h3 className="skills_name">Linux</h3>
             </div>
           </div>
 
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">Tailwind CSS</h3>
+              <h3 className="skills_name">Windows</h3>
             </div>
           </div>
-
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">Material-UI</h3>
+              <h3 className="skills_name">Mac</h3>
             </div>
           </div>
         </div>
@@ -97,4 +80,4 @@ const Frontend = () => {
   );
 };
 
-export default Frontend;
+export default DatabaseOS;

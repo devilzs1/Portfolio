@@ -1,33 +1,30 @@
-import React from 'react'
+import React from "react";
 
-const Networking = () => {
+const AutomationTesting = () => {
   return (
     <div className="skills_content">
-      <h3 className="skills_title">Network Engineering</h3>
+      <h3 className="skills_title">Automation & Testing</h3>
 
       <div className="skills_box">
         <div className="skills_group">
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
-
             <div>
-              <h3 className="skills_name">Networking Basics</h3>
+              <h3 className="skills_name">Jest</h3>
             </div>
           </div>
 
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
-
             <div>
-              <h3 className="skills_name">Networking Devices & Initial Configuration</h3>
+              <h3 className="skills_name">Gauge</h3>
             </div>
           </div>
 
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
-
             <div>
-              <h3 className="skills_name">Network Addressing & Troubelshooting</h3>
+              <h3 className="skills_name">Rest Assured</h3>
             </div>
           </div>
         </div>
@@ -35,31 +32,28 @@ const Networking = () => {
         <div className="skills_group">
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
-
             <div>
-              <h3 className="skills_name">Nmap</h3>
+              <h3 className="skills_name">Selenium</h3>
             </div>
           </div>
 
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
-
             <div>
-              <h3 className="skills_name">Wireshark</h3>
+              <h3 className="skills_name">Locust</h3>
             </div>
           </div>
 
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
-
             <div>
-              <h3 className="skills_name">Web Sockets</h3>
+              <h3 className="skills_name">Postman</h3>
             </div>
           </div>
         </div>
       </div>
     </div>
   );
-}
+};
 
-export default Networking
+export default AutomationTesting;

@@ -10,6 +10,6 @@ const Certificate = () => {
       <Certificates />
     </section>
   );
-};
+}; 
 
 export default Certificate;

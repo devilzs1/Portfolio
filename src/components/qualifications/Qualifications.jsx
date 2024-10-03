@@ -47,10 +47,10 @@ const Qualifications = () => {
               <div>
                 <h3 className="qualification_title">Bachelor of Technology</h3>
                 <span className="qualification_subtitle">
-                  Indian Institute of Information Technology - Jabalpur
+                  PDPM Indian Institute of Information Technology, Design and Manufacturing - Jabalpur
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> Dec 2021 - May 2025
                 </div>
               </div>
 
@@ -118,6 +118,22 @@ const Qualifications = () => {
               <div>
                 <span className="qualification_rounder"></span>
                 <span className="qualification_line"></span>
+              </div>
+            </div>
+            <div className="qualification_data">
+              <div></div>
+              <div>
+                <span className="qualification_rounder"></span>
+                <span className="qualification_line"></span>
+              </div>
+              <div>
+                <h3 className="qualification_title">SDET Intern</h3>
+                <span className="qualification_subtitle">
+                  Mindtickle Interactive Media Pvt. Ltd. - Pune, Maharashtra
+                </span>
+                <div className="qualification_calendar">
+                  <i className="uil uil-calendar-alt"></i> June 2024 - Dec 2024
+                </div>
               </div>
             </div>
           </div>

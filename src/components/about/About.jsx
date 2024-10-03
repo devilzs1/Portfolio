@@ -15,11 +15,16 @@ const About = () => {
           <Info />
 
           <p className="about_description">
-            Mohammad Adil is a tech enthusiast with a strong foundation in
-            computer science. His knowledge spans data structures, software
-            engineering, and more. He is dedicated to continuous learning and
-            problem-solving in the world of technology. Let's collaborate and
-            create something great!
+            Mohammad Adil is a passionate and driven tech enthusiast with a
+            solid foundation in computer science. He excels in data structures,
+            algorithms, and software engineering, and has the capability to
+            manage the entire project lifecycle—from Figma design through
+            development to testing. With expertise in fullstack development, cloud
+            technologies, and testing, Adil is committed to continuous learning
+            and delivering innovative solutions. His problem-solving mindset and
+            hands-on approach to end-to-end project ownership ensure successful
+            execution of complex technical projects. Let's collaborate and
+            create something impactful.
           </p>
 
           <a href="" className="button button--flex">
