@@ -97,6 +97,14 @@ export const projectsData = [
     link: "#",
     code: "https://github.com/devilzs1/Fusion-mobile",
   },
+  {
+    id: 11,
+    image: "",
+    title: "Golang Mini Projects",
+    category: "web",
+    link: "#",
+    code: "https://github.com/devilzs1/Go-programming",
+  },
 ];
 
 export const projectsNav = [

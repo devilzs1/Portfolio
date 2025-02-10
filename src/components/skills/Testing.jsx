@@ -10,7 +10,7 @@ const AutomationTesting = () => {
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">Jest</h3>
+              <h3 className="skills_name">TestNG</h3>
             </div>
           </div>
 
