@@ -105,13 +105,13 @@ const Qualifications = () => {
             <div className="qualification_data">
               <div>
                 <h3 className="qualification_title">
-                  Fullstack Developer Intern
+                SDET Intern
                 </h3>
                 <span className="qualification_subtitle">
-                  IEEE Bombay Section - Remote
+                Mindtickle Interactive Media Pvt. Ltd. - Pune, Maharashtra
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i> Sept 2021 - Oct 2021
+                  <i className="uil uil-calendar-alt"></i> June 2024 - June 2025
                 </div>
               </div>
 
@@ -127,12 +127,12 @@ const Qualifications = () => {
                 <span className="qualification_line"></span>
               </div>
               <div>
-                <h3 className="qualification_title">SDET Intern</h3>
+                <h3 className="qualification_title">Fullstack Developer Intern</h3>
                 <span className="qualification_subtitle">
-                  Mindtickle Interactive Media Pvt. Ltd. - Pune, Maharashtra
+                IEEE Bombay Section - Remote
                 </span>
                 <div className="qualification_calendar">
-                  <i className="uil uil-calendar-alt"></i> June 2024 - Dec 2024
+                  <i className="uil uil-calendar-alt"></i> Sept 2021 - Oct 2021
                 </div>
               </div>
             </div>
