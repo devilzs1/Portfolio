@@ -47,12 +47,20 @@
         grid-template-columns: repeat(2, 1fr);
         gap: 1.5rem;
     }
+    .skills_content{
+        padding: 2rem;
+        margin: 0 0.5rem;
+    }
 }
 
 @media screen and (max-width: 992px){
     .skills_container{
         grid-template-columns : repeat(2, 1fr);
         row-gap: 2rem;
+    }
+    .skills_content{
+        padding: 1.5rem;
+        margin: 0 1rem;
     }
 }
 
@@ -61,18 +69,22 @@
     .skills_container {
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
+    .skills_content{
+        padding: 1rem;
+        margin: 0 0.5rem;
+    }
 }
 
 @media screen and (max-width: 576px){
     .skills_container{
         grid-template-columns: 1fr;
-
     }
     .skills_content{
-        padding: 1.5rem;
+        padding: 1rem;
+        margin: 0 0.5rem;
     }
 }
-@media screen and (max-width: 350px){
+@media screen and (max-width: 360px){
     .skills_box{
         column-gap: 1.25rem;
     }

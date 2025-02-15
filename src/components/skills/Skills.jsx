@@ -14,7 +14,7 @@ const Skills = () => {
         <h2 className="section_title">Skills</h2>
         <span className="section_subtitle">My technical expertise</span>
 
-        <div className="skills_container container grid">
+        <div className="skills_container grid">
             
             <AutomationTesting/>
             <Backend/>

@@ -27,6 +27,12 @@ const SoftSkills = () => {
               <h3 className="skills_name">Communication</h3>
             </div>
           </div>
+          <div className="skills_data">
+            <i className="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills_name">Management</h3>
+            </div>
+          </div>
         </div>
 
         <div className="skills_group">

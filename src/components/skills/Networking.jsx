@@ -19,7 +19,7 @@ const Networking = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills_name">Networking Devices & Initial Configuration</h3>
+              <h3 className="skills_name">Configuration</h3>
             </div>
           </div>
 
@@ -27,7 +27,7 @@ const Networking = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills_name">Network Addressing & Troubelshooting</h3>
+              <h3 className="skills_name">Troubelshooting</h3>
             </div>
           </div>
         </div>

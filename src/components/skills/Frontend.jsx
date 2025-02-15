@@ -41,21 +41,21 @@ const Frontend = () => {
               <h3 className="skills_name">Next.js</h3>
             </div>
           </div>
-          <div className="skills_data">
+          {/* <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills_name">
                 Chrome/React/Redux Developer tools
               </h3>
             </div>
-          </div>
+          </div> */}
         </div>
 
         <div className="skills_group">
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills_name">Redux/Redux toolkit</h3>
+              <h3 className="skills_name">Redux</h3>
             </div>
           </div>
           <div className="skills_data">
