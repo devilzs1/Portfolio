@@ -42,10 +42,24 @@
     font-size: var(--tiny-font-size);
 }
 
+@media screen and (max-width: 1280px) {
+    .skills_container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+}
+
 @media screen and (max-width: 992px){
     .skills_container{
-        grid-template-columns : max-content;
+        grid-template-columns : repeat(2, 1fr);
         row-gap: 2rem;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .skills_container {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
 }
 
