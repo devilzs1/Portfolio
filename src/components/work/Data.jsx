@@ -36,7 +36,7 @@ export const projectsData = [
   {
     id: 3,
     image: Work5,
-    title: "NextGen-Compiler",
+    title: "NextGen-UI",
     category: "web",
     link: "https://next-gen-compiler.vercel.app/",
     code: "https://github.com/devilzs1/NextGen-Compiler",
