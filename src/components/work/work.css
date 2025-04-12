@@ -62,6 +62,16 @@
     color: var(--container-color);
 }
 
+@media screen and (max-width: 1280px) {
+    .work_container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+    .work_img {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 992px){
     .work_container{
         gap: 1.25rem;

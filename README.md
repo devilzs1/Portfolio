@@ -1,8 +1,24 @@
-# React + Vite
+# 🚀 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This project showcases my skills, projects, certifications, and experience in a modern and interactive way.
 
-Currently, two official plugins are available:
+## 📌 Live Demo
+🔗 [View Portfolio](https://portfolio-adil.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="./public/portfolio.png" alt="portfolio">
+
+## ✨ Features
+- 🔥 **Fully Responsive** – Works seamlessly on all devices.
+- 🎨 **Modern UI/UX** – Clean and interactive design.
+- 🏷️ **Dynamic Navigation** – Active menu highlights the currently visible section.
+- 📜 **Smooth Scrolling** – Easy navigation with scroll animations.
+- 🛠️ **Skills & Certifications** – Showcasing my expertise.
+- 💼 **Portfolio Section** – Displays my best work.
+- 📬 **Contact Form** – Get in touch with me directly.
+
+<img src="./public/skills.png" alt="skills">
+
+<img src="./public/work.png" alt="projects">
+
+
+
